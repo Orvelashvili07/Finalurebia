@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459045946909",
+    "project_id": "zeqsualurad09",
+    "storage_bucket": "zeqsualurad09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459045946909:android:ae19e5ef795ded3d1aa8f4",
+        "android_client_info": {
+          "package_name": "com.example.zeqsualurad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459045946909-rjca74eu4lh8m6u03akgjb72afe2rjam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBal3yC16MdF32G1_e0mYWdOfJ8dgDy99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459045946909-rjca74eu4lh8m6u03akgjb72afe2rjam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
