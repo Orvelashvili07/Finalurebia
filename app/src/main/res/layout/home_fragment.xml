@@ -3,11 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/maita"
     xmlns:tools="http://schemas.android.com/tools">
 
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerViewFood"
+        android:backgroundTint="@color/black"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:listitem="@layout/item_food" />

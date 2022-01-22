@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Your Notes"
+        android:text="Your Cars"
         android:textColor="@color/black"
         android:textSize="42sp"
         android:textStyle="bold"

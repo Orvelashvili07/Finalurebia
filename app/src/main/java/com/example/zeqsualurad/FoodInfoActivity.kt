@@ -14,6 +14,8 @@ class FoodInfoActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        supportActionBar?.hide()
+
         setContentView(R.layout.activity_food_info)
 
         titleTW = findViewById(R.id.title)
